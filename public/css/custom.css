@@ -1,0 +1,26 @@
+.navbar{
+	border-radius:0px;
+}
+.btn-primary{
+	background-color:black; 
+	color:white;
+	border-color:black;
+}
+body{
+	margin-top:50px;
+}
+.btn-primary:hover{
+	background-color: #353434;
+}
+.form-panel{
+	width:50%;
+	margin-top:150px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	min-height:200px;
+	border:1px solid black;
+	padding:50px;
+	border-radius:4px;
+
+}
